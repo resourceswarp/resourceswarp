@@ -1,6 +1,6 @@
 <h1>Warp Resources</h1>
 <p>Bem-vindo ao Warp Resources! Este repositório contém uma coleção de recursos para GTA San Andreas no Multi Theft Auto (MTA). Aqui você encontrará scripts, mods, e outros materiais que melhoram a experiência de jogo e facilitam o desenvolvimento de servidores.</p>
-<p>Acesse nosso discord em https://discord.gg/resourceswarp</p>
+<p>Acesse nosso discord em <a href="https://discord.gg/resourceswarp">Resources Warp Discord</a></p>
 
 <h2>🚀 Começando</h2>
 <p>Para começar a usar os recursos disponíveis neste repositório, siga estes passos:</p>
