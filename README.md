@@ -5,7 +5,7 @@
 <p>Para começar a usar os recursos disponíveis neste repositório, siga estes passos:</p>
 <ol>
     <li><strong>Clone o repositório:</strong>
-        <pre><code>git clone https://github.com/seu-usuario/warp-resources.git</code></pre>
+        <pre><code>git clone https://github.com/resourceswarp/warp-resources.git</code></pre>
     </li>
     <li><strong>Navegue até o diretório do projeto:</strong>
         <pre><code>cd warp-resources</code></pre>
