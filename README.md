@@ -17,9 +17,8 @@
 <h2>📦 Recursos Disponíveis</h2>
 <p>Aqui estão alguns dos principais recursos disponíveis neste repositório:</p>
 <ul>
-    <li><strong>Scripts de Jogo:</strong> Scripts que adicionam novas funcionalidades e melhorias ao jogo.</li>
+    <li><strong>Scripts:</strong> Scripts que adicionam novas funcionalidades e melhorias ao jogo.</li>
     <li><strong>Mods:</strong> Modificações visuais e de jogabilidade para enriquecer a experiência.</li>
-    <li><strong>Plugins:</strong> Extensões que podem ser usadas para personalizar e expandir o servidor MTA.</li>
 </ul>
 <p>Consulte o diretório <code>docs</code> para mais detalhes sobre cada recurso.</p>
 
@@ -38,6 +37,9 @@
     </li>
     <li><strong>Crie um Pull Request:</strong> Vá para o repositório original e clique em "New Pull Request".</li>
 </ol>
+
+<h2>🛡️ WARP SECURITY</h2>
+<p>Estamos animados em anunciar o <strong>WARP SECURITY</strong>, nosso novo sistema anti-cheat para MTA. O WARP SECURITY foi desenvolvido para proteger seu servidor contra trapaças e manter uma experiência de jogo justa e segura para todos os jogadores.</p>
 
 <h2>📜 Licença</h2>
 <p>Este projeto está licenciado sob a <a href="LICENSE">Licença MIT</a>.</p>
